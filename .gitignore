@@ -1,2 +1,7 @@
-backups*/
+backups/
+certificates/
+conf/
+
 *.tgz
+
+docker-compose.yaml
